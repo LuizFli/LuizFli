@@ -1,5 +1,5 @@
 <div align="center">
-   <img src= "https://pt.pngtree.com/freepng/wolf-illustration-for-tshirt_13025331.html"  />
+   
 </div>
 
 ###
