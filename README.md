@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Fso%2F512x512-lobo&psig=AOvVaw1stg8IpOEIiHbmzVK8qYK4&ust=1724349319403000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLij6vbThogDFQAAAAAdAAAAABAp"  />
 </div>
 
 ###
