@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Fso%2F512x512-lobo&psig=AOvVaw1stg8IpOEIiHbmzVK8qYK4&ust=1724349319403000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLij6vbThogDFQAAAAAdAAAAABAp"  />
+   <img src= "https://pt.pngtree.com/freepng/wolf-illustration-for-tshirt_13025331.html"  />
 </div>
 
 ###
