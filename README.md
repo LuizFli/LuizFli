@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Luiz Filipe from Brazil<br><br>- 🔭 I’m working as Nothing now <br>- 📚 I'm currently learning  Systems Development <br>- ⚡ In my free time I like play games, Develop Basic Systems, i play football and i go Gym  </p>
 
 ###
 
